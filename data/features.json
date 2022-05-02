@@ -1,17 +1,19 @@
 [
   {
     "title": "Lekcje online",
-    "description": "Skype/Google meets/Microsoft Teams",
-    "image": "images/features/noun_branding_1885335.svg"
+    "description": "Skype/Google Meet/Microsoft Teams",
+    "image": "images/features/lekcje_online.png"
   },
   {
     "title": "Zajęcia indywidualne",
     "description": "Lekcje w domu ucznia",
-    "image": "images/features/noun_The Process_1885341.svg"
+    "image": "images/features/lekcje_w_domu_ucznia.png"
   },
   {
-    "title": "Egzamin GCSE Polish i A-level Polish",
+    "title": "Egzamin GCSE i A-level Polish",
     "description": "Przygotowanie do egzaminu GCSE i A-level z języka polskiego",
-    "image": "images/features/noun_3d modeling_1885342.svg"
+    "image": "images/features/egzaminy_gcse_alevel.png"
+	
+
   }
 ]

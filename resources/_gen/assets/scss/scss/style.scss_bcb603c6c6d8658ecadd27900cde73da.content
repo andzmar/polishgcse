@@ -4542,11 +4542,13 @@ ol {
 .intro-image {
   width: 100%;
   height: auto;
-  margin-top: -40px; }
+  margin-top: -40px;
+  margin-left: 100px;
+  border-left: 1px solid #f24088; }
 
 .intro-image-absolute {
   max-width: none;
-  padding: 0;
+  padding: 20px;
   margin-bottom: 30px; }
   @media (min-width: 768px) {
     .intro-image-absolute {
@@ -4621,8 +4623,8 @@ ol {
   text-align: center; }
   .feature .feature-image {
     flex: 0 0 auto;
-    width: 80px;
-    height: 80px;
+    width: 160px;
+    height: 160px;
     display: flex;
     margin-bottom: 20px;
     text-align: center; }
