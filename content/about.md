@@ -5,7 +5,7 @@ date: 2018-02-22T17:01:34+07:00
 
 ## Cześć, jestem Andżelika
 
-![](/images/omnie.jpeg)
+![](/images/omnie_5.png)
 
    
 
