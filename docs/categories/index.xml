@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Polonista w Londynie</title>
-    <link>https://andzmar.github.io/polishgcse/categories/</link>
+    <link>https://polishgcse.com/categories/</link>
     <description>Recent content in Categories on Polonista w Londynie</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-gb</language><atom:link href="https://andzmar.github.io/polishgcse/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-gb</language><atom:link href="https://polishgcse.com/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
